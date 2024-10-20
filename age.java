@@ -1,5 +1,5 @@
 ***
-eligible for vote or not using in if class
+eligible for vote or not using in if condition
 output:
 eligible for vote
 ***
