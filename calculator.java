@@ -1,5 +1,14 @@
 ***
  calculator
+output:
+	enter a and b
+10
+13
+addition is:23
+subtraction  is:-3
+multiplication is:130
+Division is:0
+module is:10
 ***
 import java.util.Scanner;
 class Add
