@@ -1,5 +1,7 @@
 ***
 eligible for vote or not using in if class
+output:
+eligible for vote
 ***
 class Age
 {
