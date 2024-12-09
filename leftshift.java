@@ -1,0 +1,17 @@
+***
+left shift operator
+output:
+40
+80
+240
+***
+class leftshift
+{
+public static void main(String args[])
+{
+System.out.println(10<<2);
+System.out.println(10<<3);
+System.out.println(15<<4);
+}
+}
+
