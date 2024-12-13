@@ -1,5 +1,5 @@
 ***
-using get function set function
+using get function set function / encapsulation
 output:
 dog name is:munna
 dog color is:black
